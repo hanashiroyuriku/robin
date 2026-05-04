@@ -1,0 +1,52 @@
+{
+  "id": "shape-of-my-heart",
+  "title": "Shape of My Heart",
+  "artist": "Backstreet Boys",
+  "lyrics": [
+    {
+      "text": "I'm lookin' back on things I've done",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "I never wanna play the same old part",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "I'll keep you in the dark",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "Now let me show you the shape of my heart",
+      "char_delay": 0.1,
+      "line_pause": 1
+    },
+    {
+      "text": "",
+      "char_delay": 0,
+      "line_pause": 0.5
+    },
+    {
+      "text": "Looking back on the things I've done",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "I was trying to be someone",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "I played my part, kept you in the dark",
+      "char_delay": 0.08,
+      "line_pause": 0.3
+    },
+    {
+      "text": "Now let me show you the shape of my heart",
+      "char_delay": 0.1,
+      "line_pause": 1
+    }
+  ]
+}
